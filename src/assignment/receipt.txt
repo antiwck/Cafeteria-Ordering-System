@@ -1,0 +1,52 @@
+Timothy Benedict
+2022-08-21 11:20:24
+Credit card
+19.50
+Nasi Kandar                                    1
+Mee Goreng                                     1
+
+Aloy Sobeck
+2022-08-21 11:21:34
+Debit card
+27.50
+Full English Breakfast                         1
+Nasi Kandar                                    1
+
+Jonathan Smith
+2022-08-21 12:40:07
+Credit card
+30.00
+Full English Breakfast                         2
+
+Jonathan Smith
+2022-08-21 13:39:35
+Credit card
+7.00
+Mee Goreng                                     1
+
+Jonathan Smith
+2022-08-21 15:52:32
+Credit card
+25.00
+Full English Breakfast                         1
+Chicken Biryani                                1
+
+Jonathan Smith
+2022-08-21 15:53:36
+Credit card
+25.00
+Full English Breakfast                         1
+Chicken Biryani                                1
+
+Jonathan Smith
+2022-10-04 11:43:39
+Credit card
+3.50
+Mee Goreng                                     1
+
+Timothy Benedict
+2022-10-04 12:00:02
+Debit card
+11.00
+Full English Breakfast                         1
+

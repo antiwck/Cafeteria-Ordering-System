@@ -1,0 +1,28 @@
+# Cafeteria-Ordering-System
+A functional ordering system which allows users to create their order/make payment/provide feedback while manager can modify menu/register customer/view payment and feedback.
+
+Customer GUI:
+1. Customer login page
+2. Menu page
+3. Profile page
+4. Receipt page
+5. Cart page
+6. Payment page
+7. Feedback page
+
+Manager GUI:
+1. Manager login page
+2. Menu modification page
+3. Customer registration page
+4. Payment overview page
+5. Feedback overview page
+
+Common GUI:
+1. Main menu page
+
+Text files:
+1. customer info.txt
+2. menu.txt
+3. receipt.txt
+4. feedback.txt
+
